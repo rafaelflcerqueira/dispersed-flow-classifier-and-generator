@@ -1,7 +1,7 @@
 # dispersed-flow-classifier-and-generator
 
 The following code repository contains example scripts on how to use and test a few of the different methodologies described in our Particle Tracking Velocimetry (PTV) algorithm for the analysis of oil drops behaviour in two-phase oil-water dispersions. 
-The article detailing the algorithm is available at XXXXXXXXX.
+The article detailing the algorithm is available at https://doi.org/10.1016/j.ijmultiphaseflow.2022.104302.
 
 # Example_Classification
 This folder contains an example script code used to identify oil drops in two-phase flow dispersed images from https://doi.org/10.1016/j.expthermflusci.2019.03.009.
@@ -21,4 +21,4 @@ Input images used in the present examples. Images extracted from the experimenta
 Best-ranked U-NET, CNN and GAN models trained in our work.
 
 # Reference
-The related article can be found at XXXXXXXXXXXXXXXXX.
+The related article can be found at https://doi.org/10.1016/j.ijmultiphaseflow.2022.104302.
